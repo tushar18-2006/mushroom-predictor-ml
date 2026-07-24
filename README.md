@@ -143,18 +143,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📷 Screenshot
-
-Place your project screenshot inside the project folder as:
-
-```
-![image](https://github.com/tushar18-2006/mushroom-predictor-ml/blob/0c80a2f7d4d6225a1a51000ddadf51aa7cbfe201/Mushroom.png)
-```
-
-It will automatically appear in this README.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
