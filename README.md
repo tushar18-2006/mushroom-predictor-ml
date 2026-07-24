@@ -6,7 +6,7 @@ A Machine Learning web application built with **Python**, **Flask**, and **Sciki
 
 ## 📷 Application Preview
 
-![image](https://github.com/tushar18-2006/mushroom-predictor-ml/blob/9546a3c50f1731be81dcc2e02c84a0b4fefbb491/GUI.png)
+![image](https://github.com/tushar18-2006/mushroom-predictor-ml/blob/b9cb30cbe6fa3b41d93eafbef80faffcf72bc739/Mushroom.png)
 
 ---
 
